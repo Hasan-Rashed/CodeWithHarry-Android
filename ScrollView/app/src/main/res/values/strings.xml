@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Scroll View</string>
+    <string name="textview">
+        <b>Lorem ipsum dolor sit amet</b>, consectetur adipiscing elit. Morbi ipsum felis, mattis nec enim placerat, fermentum pulvinar risus. Proin lobortis fringilla arcu nec tempus. Vestibulum erat massa, accumsan non ipsum ac, condimentum gravida magna. Donec gravida enim eget egestas eleifend. Fusce molestie lacus ligula, sodales lobortis lacus pharetra vel. Donec ullamcorper nulla eu velit bibendum, tincidunt sagittis sem porta. Praesent quis mauris sem. Proin semper nibh et turpis placerat, a pretium lectus vulputate. Aenean nec turpis condimentum, ornare nibh quis, porttitor magna.
+
+Nullam ut pulvinar ipsum. Vestibulum vehicula vitae justo scelerisque tincidunt. Suspendisse porta auctor quam sed tempor. Mauris sem quam, vehicula et facilisis venenatis, viverra ac diam. Aliquam mattis neque eu velit aliquet, in vestibulum quam condimentum. Fusce sed ex eros. Suspendisse potenti. Mauris ac mattis felis. Nulla tincidunt ac orci eu facilisis.
+
+Nunc convallis turpis non sem porttitor, nec dictum dui semper. Nulla a arcu et lectus lacinia gravida. Nunc mattis lorem quis ipsum consectetur, eget ullamcorper ex viverra. Vestibulum non vulputate nibh. Aenean metus lectus, molestie non sem sit amet, luctus posuere turpis. Quisque lobortis rutrum quam quis pharetra. Nunc et sagittis dolor. Suspendisse potenti. Quisque a vehicula ante, eget rutrum lacus.
+
+Nunc congue tristique libero vel efficitur. Praesent porttitor ante eu congue hendrerit. In hac habitasse platea dictumst. In orci erat, pharetra nec lorem tempus, accumsan vestibulum sapien. Proin in neque nec ex pharetra venenatis. Vestibulum vitae auctor arcu. Nulla tempus ipsum sed lacus tempus, sed viverra tortor ultrices.
+
+Praesent aliquam, orci a porta auctor, tellus enim commodo nulla, quis sodales justo tortor nec purus. Ut aliquam lobortis nibh eu suscipit. Donec ligula dui, gravida non suscipit sed, sagittis vel neque. Etiam pulvinar, risus at efficitur dapibus, risus lectus pretium tellus, id euismod tortor dui vitae elit. Aenean non nisl eget risus placerat feugiat. Mauris pharetra tortor nunc, sed molestie odio efficitur in. Vestibulum rhoncus molestie turpis, at blandit libero dapibus quis. Mauris pretium nulla eu urna vulputate, ut volutpat odio lacinia. Nam mattis, arcu at imperdiet mollis, enim justo maximus augue, eu aliquam nunc sapien a elit. Vestibulum vitae eros non massa maximus consectetur eget eget nulla.
+
+    </string>
+</resources>
